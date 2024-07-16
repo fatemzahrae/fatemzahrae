@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fatemzahrae
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Web Development 
 - 💞️ I’m looking to collaborate on innovative software projects
 - 📫 Here's my email fatimazahrakribii012@gmail.com
 
