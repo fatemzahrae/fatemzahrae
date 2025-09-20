@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Fatima Zahra Kribii</h1> <p align="center"> <i>Full-stack explorer | Java enthusiast | Code meets creativity</i><br> <code>~/building-things-that-don't-break 🔐</code> </p>
 
 $ whoami
-👩‍💻 Software Engineering student at INPT  
+👩‍💻 Software Engineering student 
 
 
 <p align="center">
